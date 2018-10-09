@@ -39,7 +39,7 @@ export class AppComponent {
 The above code is from the working example here : `ngx-image-compress/tests/src/app/app.component.ts`  
 You can also start yourself the working sample project like this
 ```$xslt
-cd test
+cd tests
 npm i
 npm run start
 ```
